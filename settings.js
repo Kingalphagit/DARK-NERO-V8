@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -15,25 +15,59 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.ANTI_BADWORD = 'true' // true of false
-global.AUTO_REACT = 'false' // true of false
+global.AUTO_REACT = 'true' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
-global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
+global.alivemsg = '❤️❤️❤️❤️❤️හායි❤️❤️❤️❤️❤️
+
+❤️❤️❤️❤️❤️හායි❤️❤️❤️❤️❤️
+
+❤️❤️❤️❤️❤️හායි❤️❤️❤️❤️❤️
+
+❤️❤️❤️❤️❤️හායි❤️❤️❤️❤️❤️
+
+❤️වට්සැප් පැකේජ් එකෙන්ම සින්දු , 
+
+❤️වීඩියෝ ඩවුන්ලෝඩ් කරමු.
+
+❤️තව ගොඩක් දේවල් තියෙනවා
+
+❤️පහල තියෙන කමාන්ඩ් Use කරන්න
+
+මුලට ඩොට් එක ( . )අනිවාර්යයෙන්ම ඕනෙ.  මෙ ඔක්කොම මගෙ ඉන්බොක්ස් එකෙ ඉදන් කරන්න 😋😋😋😋
+
+.alive = බොට් වැඩද බැලීමට
+
+.song = සිංදු download කිරීමට
+
+.video = video download කිරීමට
+
+.menu = වෙනත් command
+
+🇱🇰👿🌈♥️𝙰𝙻𝙿𝙷𝙰🤗𝙱𝚘𝚝♥️🌈👿🇱🇰
+
+❤️❤️❤️❤️❤️බායි❤️❤️❤️❤️❤️
+
+❤️❤️❤️❤️❤️බායි❤️❤️❤️❤️❤️
+
+❤️❤️❤️❤️❤️බායි❤️❤️❤️❤️❤️
+
+❤️❤️❤️❤️❤️බායි❤️❤️❤️❤️❤️'
+global.alivepic = 'https://www.linkpicture.com/q/IMG-20230325-WA0033.jpg'
+global.owner = ['0716994931'] //ur owner number
+global.ownername = "Malinda abenayake" //ur owner name
+global.ytname = "S/L android dark hacker" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
+global.ownernomer = "94716994931" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.premium = ['94716994931'] //ur premium number
+global.botname = '⍤⍤⃝●█❁࿇=⍤M⍤⃝●A❦L༆i⍤⍤⃝●B█❁O❀࿇T❥𖡹' //ur bot name
+global.linkz = " https://api.whatsapp.com/send?phone=+94716994931 " //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCZPrpzgCtdN_agcTWZH7OBQ" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Dark Nero By" //ur sticker watermark packname
